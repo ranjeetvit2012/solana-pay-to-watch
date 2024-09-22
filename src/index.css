@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.login-from {
+  display: flex;
+  justify-content: center;
+}
+.login-card{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 700px;
+}
+
+img, video {
+  max-width: 600px !important;
+  height: 129px !important;
+}
